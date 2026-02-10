@@ -15,6 +15,7 @@ media/
 # Node
 node_modules/
 dist/
+.vite/
 
 # OS
 .DS_Store
